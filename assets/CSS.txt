@@ -1,0 +1,29 @@
+No HTML
+<link rel="stylesheet" href="styles.css">
+
+https://coolors.co
+Adobe Color
+
+Hover
+- Mouse sobre
+
+*
+Todos os elementos
+
+.apresentacao
+classe
+
+.apresentacao__continua
+dois underlines
+
+Alt z
+- alinha texto
+
+variavel css
+:root{
+    --cor-primaria: #000000;
+    --cor-secundaria: #f6f6f6;
+    --cor-terciaria: #22d4fd;
+}
+
+https://colorhunt.co/palette/11423287a922fcdc2af7f6bb

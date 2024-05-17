@@ -1,0 +1,29 @@
+https://horadecodar.com.br/o-que-e-html5-aprenda-tudo-sobre-html5-tags-atributos-e-mais/
+
+_blank
+- Nova pagina
+
+ul
+-listas
+ 
+! TAB
+- Padrão
+
+<b> 
+- Negrito
+
+nav
+- barra de navegação
+
+Ctrl Shift X
+- Extensões
+
+Live Server / Go Live
+- Atualiza automaticamente
+
+Alt Shift F
+- Alinha
+
+Alt clique
+- Escreve dobrado ou *
+
